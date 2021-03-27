@@ -1,0 +1,35 @@
+.title {
+  text-align: center;
+}
+
+.course {
+  margin-top:4px;
+}
+
+a {
+  color: #009405;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:visited {
+  color: #D10900;
+}
+
+.content {
+  padding-left: 10px;
+  border: 3px solid black;
+  margin-right: 700px;
+}
+
+.lections {
+  text-align: center;
+}
+
+.space {
+  padding-top: 25px;
+  padding-bottom: 4px;
+}
